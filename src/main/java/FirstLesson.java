@@ -13,7 +13,7 @@ public class FirstLesson {
 
         // Символьный
         char aChar = 'a';
-s
+
         // Логически тип
         boolean aBoolean = true;//false
 
